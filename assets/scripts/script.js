@@ -1,1 +1,1 @@
-alert('Still in work!')
+alert('Still in work')
